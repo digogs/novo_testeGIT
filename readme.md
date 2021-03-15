@@ -1,2 +1,2 @@
 # start GIT !
-Projeto teste página html com IDE BSS
+Projeto teste págingita html com IDE BSS
